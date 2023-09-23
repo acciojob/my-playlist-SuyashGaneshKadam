@@ -27,6 +27,7 @@ h2{
 }
 .player_one,.player_two{
 	width:600px;
+	background-color: rgb(255, 255, 255); 
 }
 div{
 	background-color: rgb(255, 255, 255); 
